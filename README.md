@@ -25,7 +25,7 @@ I build these tools primarily to solve **real problems I encounter in my own dai
 
 That means they may not always be polished, generalized, or designed as full-featured applications. Some are simple scripts that do one thing well.
 
-If a tool happens to be useful to someone else — great.
+If a tool happens to be useful to someone else - great.
 
 ## 📂 Repository structure
 
